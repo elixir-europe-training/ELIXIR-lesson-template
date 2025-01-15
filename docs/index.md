@@ -2,12 +2,6 @@
 
 [add-bioschemas file='_data/metadata.yaml']
 
-## Authors
-
-[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
-
-Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](https://www.flaticon.com)
-
 ## Lesson overview
 
 !!! overview ""
@@ -47,6 +41,20 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     [comment]: # (Property in Biochema: licence)
     [comment]: # (This is an example for CONVERGE)
 
+## Setup
+
+### Data setup
+To run this lesson you need to install data from …
+
+### Software setup
+To run this course you need to install… continue with software installation instructions
+
+## Authors
+
+[cards class_name="authors" cols="3"(./docs/assets/cards/author_cards.yaml)]
+
+Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](https://www.flaticon.com)
+
 #### Contributors
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
@@ -61,12 +69,5 @@ Please cite as:
   2. Geert van Geest, Elin Kronander, Jose Alejandro Romero Herrera, Nadja Žlender, & Alexia Cardona. (2023). The ELIXIR Training Lesson Template - Developing Training Together (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.7913092. 
 
 ---
-## Setup
-
-### Data setup
-To run this lesson you need to install data from …
-
-### Software setup
-To run this course you need to install… continue with software installation instructions
 
 
